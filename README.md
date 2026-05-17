@@ -10,7 +10,7 @@ My work tends to combine: data → ML model → API → frontend, end-to-end.
 
 ## Featured Projects
 
-🤖 **[Skedy](#)** — Multi-tenant AI customer-service platform. RAG pipeline with embeddings + Supabase pgvector + OpenAI, integrated with WhatsApp Business API.
+🤖 **[Skedy](https://lucasxueportfolio.netlify.app/projects/skedy)** — Multi-tenant AI customer-service platform. RAG pipeline with embeddings + Supabase pgvector + OpenAI, integrated with WhatsApp Business API.
 
 🅿️ **[ParkSense](https://parksense-ddsc.netlify.app)** — Parking availability prediction system. XGBoost on 3,000+ Melbourne council sensors. Led 4-person team.
 
