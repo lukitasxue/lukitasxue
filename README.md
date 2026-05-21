@@ -12,7 +12,7 @@ My work tends to combine: data → ML model → API → frontend, end-to-end.
 
 🤖 **[Skedy](https://lucasxueportfolio.netlify.app/projects/skedy)** — Multi-tenant AI customer-service platform. RAG pipeline with embeddings + Supabase pgvector + OpenAI, integrated with WhatsApp Business API.
 
-🅿️ **[ParkSense](https://parksense-ddsc.netlify.app)** — Parking availability prediction system. XGBoost on 3,000+ Melbourne council sensors. Led 4-person team.
+🅿️ **[ParkSense](https://lucasxueportfolio.netlify.app/projects/parksense)** — Parking availability prediction system. XGBoost on 3,000+ Melbourne council sensors. Led 4-person team.
 
 📊 **[Mood Predictor](https://github.com/lukitasxue/MoodPredictor)** — Full-stack ML web app. Multivariable linear regression from scratch in NumPy, FastAPI backend, Vue frontend.
 
