@@ -16,7 +16,7 @@ My work tends to combine: data → ML model → API → frontend, end-to-end.
 
 📊 **[Mood Predictor](https://moodpredictorapp.netlify.app)** — Full-stack ML web app. Multivariable linear regression from scratch in NumPy, FastAPI backend, Vue frontend.
 
-🌲 **[IoT Capstone (DataBytes)](https://github.com/DataBytes-Organisation/Intelligent-IoT-Data-Management)** — Junior Lead, Models team T1 2026. Anomaly detection on time-series sensor data (Isolation Forest, PCA, z-score).
+🌲 **[IoT Capstone (DataBytes)](https://github.com/DataBytes-Organisation/Intelligent-IoT-Data-Management)** — Project Manager & Senior Lead, 2026. Anomaly detection on time-series sensor data (Isolation Forest, PCA, z-score).
 
 ## Stack
 
